@@ -15,6 +15,7 @@ Train MSE: 0.01 | Train Acc: 95.43% | Valid Acc: 94.66%
 Part 2 -Practice the usage of CNN (Convolutional Neural Network)
 
 In this section we implemented two pre - trained deep neural networks models as following:
- -Mobile Net V2
+ - Mobile Net V2
  - VGG16 contains two files each represents different seed 
+
 In each model we first split the data for training (50%) ,validation ( 25%) and test (25%) .The splits were executed twice for each in a different seed for both models.
